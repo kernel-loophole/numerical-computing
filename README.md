@@ -1,3 +1,3 @@
 # Numerical-Computing
- ![](screenshot.png | width=100 )
+ ![text](screenshot.png){:height="50%" width="50%"}
 # Numerical Computing use python(Numpy,metplotlib).
