@@ -1,3 +1,3 @@
 # Numerical-Computing
- ![text](screenshot.png { widh:50% height=50%})
+ ! [text](screenshot.png)
 # Numerical Computing use python(Numpy,metplotlib).
