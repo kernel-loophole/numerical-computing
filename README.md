@@ -1,3 +1,3 @@
 # Numerical-Computing
  ![text](screenshot.png)
-# Numerical Computing use python(Numpy,metplotlib).
+# Numerical Computing using python(Numpy,metplotlib).
