@@ -1,3 +1,3 @@
 # Numerical-Computing
- ![](screenshot.png=250*250 )
+ ![](screenshot.png | width=100 )
 # Numerical Computing use python(Numpy,metplotlib).
